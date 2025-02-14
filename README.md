@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/SakethramVelupula/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/SakethramVelupula/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0940-fruit-into-baskets](https://github.com/SakethramVelupula/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1019-squares-of-a-sorted-array](https://github.com/SakethramVelupula/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/SakethramVelupula/LeetCode/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/SakethramVelupula/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/SakethramVelupula/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/SakethramVelupula/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SakethramVelupula/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SakethramVelupula/LeetCode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/SakethramVelupula/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [1019-squares-of-a-sorted-array](https://github.com/SakethramVelupula/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Linked List
 |  |
 | ------- |
