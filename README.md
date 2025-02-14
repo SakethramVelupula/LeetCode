@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SakethramVelupula/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/SakethramVelupula/LeetCode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/SakethramVelupula/LeetCode/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SakethramVelupula/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/SakethramVelupula/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SakethramVelupula/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/SakethramVelupula/LeetCode/tree/master/0148-sort-list) |
 ## Greedy
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SakethramVelupula/LeetCode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/SakethramVelupula/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/SakethramVelupula/LeetCode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/SakethramVelupula/LeetCode/tree/master/0148-sort-list) |
 ## Linked List
 |  |
 | ------- |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/SakethramVelupula/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/SakethramVelupula/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SakethramVelupula/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/SakethramVelupula/LeetCode/tree/master/0148-sort-list) |
 ## Stack
 |  |
 | ------- |
@@ -141,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SakethramVelupula/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/SakethramVelupula/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
