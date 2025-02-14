@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SakethramVelupula/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/SakethramVelupula/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/SakethramVelupula/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0940-fruit-into-baskets](https://github.com/SakethramVelupula/LeetCode/tree/master/0940-fruit-into-baskets) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/SakethramVelupula/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SakethramVelupula/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/SakethramVelupula/LeetCode/tree/master/0567-permutation-in-string) |
+| [0940-fruit-into-baskets](https://github.com/SakethramVelupula/LeetCode/tree/master/0940-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/SakethramVelupula/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/SakethramVelupula/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/SakethramVelupula/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0940-fruit-into-baskets](https://github.com/SakethramVelupula/LeetCode/tree/master/0940-fruit-into-baskets) |
 ## Binary Search
 |  |
 | ------- |
