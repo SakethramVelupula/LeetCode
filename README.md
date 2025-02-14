@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SakethramVelupula/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SakethramVelupula/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/SakethramVelupula/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0435-non-overlapping-intervals](https://github.com/SakethramVelupula/LeetCode/tree/master/0435-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SakethramVelupula/LeetCode/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/SakethramVelupula/LeetCode/tree/master/0435-non-overlapping-intervals) |
 ## Sorting
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SakethramVelupula/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SakethramVelupula/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SakethramVelupula/LeetCode/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/SakethramVelupula/LeetCode/tree/master/0435-non-overlapping-intervals) |
 ## Linked List
 |  |
 | ------- |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/SakethramVelupula/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/SakethramVelupula/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/SakethramVelupula/LeetCode/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/SakethramVelupula/LeetCode/tree/master/0435-non-overlapping-intervals) |
 ## Simulation
 |  |
 | ------- |
