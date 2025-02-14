@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/SakethramVelupula/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/SakethramVelupula/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/SakethramVelupula/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/SakethramVelupula/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 ## String
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/SakethramVelupula/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/SakethramVelupula/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/SakethramVelupula/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/SakethramVelupula/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SakethramVelupula/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/SakethramVelupula/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/SakethramVelupula/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/SakethramVelupula/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 ## Stack
 |  |
 | ------- |
