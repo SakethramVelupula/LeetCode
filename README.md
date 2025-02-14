@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/SakethramVelupula/LeetCode/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/SakethramVelupula/LeetCode/tree/master/0048-rotate-image) |
 ## Array
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/SakethramVelupula/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/SakethramVelupula/LeetCode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/SakethramVelupula/LeetCode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/SakethramVelupula/LeetCode/tree/master/0048-rotate-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/SakethramVelupula/LeetCode/tree/master/0046-permutations) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/SakethramVelupula/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
