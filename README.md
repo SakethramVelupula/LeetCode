@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/SakethramVelupula/LeetCode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/SakethramVelupula/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/SakethramVelupula/LeetCode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/SakethramVelupula/LeetCode/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SakethramVelupula/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/SakethramVelupula/LeetCode/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SakethramVelupula/LeetCode/tree/master/0048-rotate-image) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/SakethramVelupula/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
