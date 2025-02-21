@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/SakethramVelupula/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/SakethramVelupula/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/SakethramVelupula/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/SakethramVelupula/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SakethramVelupula/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SakethramVelupula/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/SakethramVelupula/LeetCode/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/SakethramVelupula/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/SakethramVelupula/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/SakethramVelupula/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/SakethramVelupula/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/SakethramVelupula/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/SakethramVelupula/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/SakethramVelupula/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SakethramVelupula/LeetCode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/SakethramVelupula/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [1019-squares-of-a-sorted-array](https://github.com/SakethramVelupula/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/SakethramVelupula/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Linked List
 |  |
 | ------- |
