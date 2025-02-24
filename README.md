@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/SakethramVelupula/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1319-unique-number-of-occurrences](https://github.com/SakethramVelupula/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SakethramVelupula/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/SakethramVelupula/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/SakethramVelupula/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/SakethramVelupula/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/SakethramVelupula/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SakethramVelupula/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1777-determine-if-two-strings-are-close](https://github.com/SakethramVelupula/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/SakethramVelupula/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SakethramVelupula/LeetCode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/SakethramVelupula/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [1019-squares-of-a-sorted-array](https://github.com/SakethramVelupula/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1777-determine-if-two-strings-are-close](https://github.com/SakethramVelupula/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/SakethramVelupula/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Linked List
 |  |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SakethramVelupula/LeetCode/tree/master/0169-majority-element) |
+| [1777-determine-if-two-strings-are-close](https://github.com/SakethramVelupula/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Prefix Sum
 |  |
 | ------- |
