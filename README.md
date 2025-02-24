@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/SakethramVelupula/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/SakethramVelupula/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SakethramVelupula/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2428-equal-row-and-column-pairs](https://github.com/SakethramVelupula/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/SakethramVelupula/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/SakethramVelupula/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/SakethramVelupula/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2428-equal-row-and-column-pairs](https://github.com/SakethramVelupula/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## String
 |  |
 | ------- |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/SakethramVelupula/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SakethramVelupula/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SakethramVelupula/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2428-equal-row-and-column-pairs](https://github.com/SakethramVelupula/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/SakethramVelupula/LeetCode/tree/master/0054-spiral-matrix) |
 | [0874-backspace-string-compare](https://github.com/SakethramVelupula/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SakethramVelupula/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2428-equal-row-and-column-pairs](https://github.com/SakethramVelupula/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Memoization
 |  |
 | ------- |
