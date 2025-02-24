@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/SakethramVelupula/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/SakethramVelupula/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/SakethramVelupula/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SakethramVelupula/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/SakethramVelupula/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SakethramVelupula/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/SakethramVelupula/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/SakethramVelupula/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SakethramVelupula/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SakethramVelupula/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/SakethramVelupula/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/SakethramVelupula/LeetCode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/SakethramVelupula/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/SakethramVelupula/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Simulation
 |  |
 | ------- |
