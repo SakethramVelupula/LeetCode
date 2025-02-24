@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/SakethramVelupula/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/SakethramVelupula/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/SakethramVelupula/LeetCode/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/SakethramVelupula/LeetCode/tree/master/0735-asteroid-collision) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SakethramVelupula/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/SakethramVelupula/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/SakethramVelupula/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SakethramVelupula/LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/SakethramVelupula/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0735-asteroid-collision](https://github.com/SakethramVelupula/LeetCode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/SakethramVelupula/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2470-removing-stars-from-a-string](https://github.com/SakethramVelupula/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SakethramVelupula/LeetCode/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/SakethramVelupula/LeetCode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/SakethramVelupula/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SakethramVelupula/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/SakethramVelupula/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
