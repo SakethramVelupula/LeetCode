@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/SakethramVelupula/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SakethramVelupula/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/SakethramVelupula/LeetCode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/SakethramVelupula/LeetCode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/SakethramVelupula/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/SakethramVelupula/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/SakethramVelupula/LeetCode/tree/master/0567-permutation-in-string) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SakethramVelupula/LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/SakethramVelupula/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/SakethramVelupula/LeetCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/SakethramVelupula/LeetCode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/SakethramVelupula/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2470-removing-stars-from-a-string](https://github.com/SakethramVelupula/LeetCode/tree/master/2470-removing-stars-from-a-string) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/SakethramVelupula/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/SakethramVelupula/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SakethramVelupula/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/SakethramVelupula/LeetCode/tree/master/0394-decode-string) |
 ## Backtracking
 |  |
 | ------- |
